@@ -1,0 +1,8 @@
+=== ACTIVE USERS PRODUCTION REPORT ===
+Total Active Users Found: 3
+Combined Work Hours: 97 hours
+-------------------------------------
+
+ Alice [Developer] - Logged: 42 hours
+ Charlie [Manager] - Logged: 0 hours
+ David [Developer] - Logged: 55 hours

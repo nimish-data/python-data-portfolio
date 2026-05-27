@@ -1,0 +1,6 @@
+[
+    {"user": "Alice", "role": "Developer", "status": "active", "hours_logged": 42},
+    {"user": "Bob", "role": "Data Analyst", "status": "inactive", "hours_logged": 12},
+    {"user": "Charlie", "role": "Manager", "status": "active"}, 
+    {"user": "David", "role": "Developer", "status": "active", "hours_logged": 55}
+]
